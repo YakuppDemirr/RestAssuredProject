@@ -2,7 +2,7 @@ import com.sun.org.glassfish.gmbal.Description;
 import org.apache.log4j.Logger;
 import org.testng.annotations.Test;
 
-public class CicekSepetiApiTestPage extends MethodPage{
+public class RestAssuredTestPage extends MethodPage{
 
     //region Taksit seçeneği olan ürünlerin listelenmesi
     @Test(priority = 1)

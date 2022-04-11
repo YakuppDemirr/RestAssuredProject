@@ -20,7 +20,7 @@ import static io.restassured.config.RestAssuredConfig.config;
 
 public class MethodPage {
 
-    public static final Logger logger = Logger.getLogger("CicekSepetiApi");
+    public static final Logger logger = Logger.getLogger("RestAssured");
 
     public void getInstallmentTrue() {
 
